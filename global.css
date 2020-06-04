@@ -1,0 +1,13 @@
+html,
+body {
+  overflow: hidden;
+}
+
+body {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-color: #d0e5f2;
+  font-family: "La Belle Aurore", cursive;
+  color: #523c30;
+}
