@@ -13,5 +13,6 @@ body {
   height: 100vh;
   background-color: #d0e5f2;
   font-family: "La Belle Aurore", cursive;
+  font-family: "La Belle Aurore", "KaiTi", "Ma Shan Zheng", cursive;
   color: #523c30;
 }
